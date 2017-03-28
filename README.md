@@ -8,4 +8,4 @@ Also includes a Max/MSP (Max 7) project that works well with the OSC-wrapper and
 A demo for machine-learning possibilites through ml.lib (https://github.com/cmuartfab/ml-lib) is also included.
 
 ## Download
-https://github.com/xhain/myo-osc-builds/raw/master/myo2max.zip
+https://github.com/xhain/Myo2Max/raw/master/myo2max.zip
