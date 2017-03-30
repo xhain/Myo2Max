@@ -1,6 +1,6 @@
 # Myo to Max/MSP via OSC
 
-This package enables an out-of-the-box solution to connect the Thalmic Myo to Max/MSP vis OSC and get all the raw data from it.
+This package enables an out-of-the-box solution to connect the Thalmic Myo to Max/MSP via OSC and get all the raw data from it. This package does not include any sonification or sound synthsis, like presented in [KONTRAKTION](http://www.nichtdersoziologe.de/portfolio/kontraktion/).
 
 ## myo-osc builds
 There are several version of precompiled myo-osc versions for OSX here:
